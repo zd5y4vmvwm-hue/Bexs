@@ -1,0 +1,15 @@
+# Basic exact-word output and learning filter. Not comprehensive moderation.
+# Edit to adjust the vocabulary. Imported source data is not changed.
+nigger
+niggers
+nigga
+niggas
+faggot
+faggots
+fag
+fags
+beaner
+beaners
+retard
+retards
+retarded

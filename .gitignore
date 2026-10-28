@@ -1,0 +1,6 @@
+.env
+data/
+__pycache__/
+*.pyc
+*.sqlite3*
+seed/original-memory.json
